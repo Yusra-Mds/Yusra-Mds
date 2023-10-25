@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Yusra-Mds)
 
 <h1 align="center">
-  <img src="https://github.com/Yusra-Mds/Yusra-Mds/blob/main/mati.svg" alt="Mati Ethiopia" />
+  <img src="https://github.com/Yusra-Mds/Yusra-Mds/blob/main/yusera.svg" alt="Yusra-Mds" />
 </h1>
 
 
